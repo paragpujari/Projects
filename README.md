@@ -15,3 +15,29 @@ The brain tumor dataset has two sets of folder 'No' and 'Yes'.
 
 (ii) Yes folder = It contains the list of all the brain images that are detected with brain tumor.   There are total 155 images that are detected with brain tumor.
 
+
+## Approach
+
+# (i) Creating 3 Important Lists for storing the data.
+     a. data  - It contains all the data in the numpy array form.
+     
+     b. paths - It contains the paths where the images are to be stored. 
+
+     c. result - It contains the result of whether the brain image has a tumor or not.
+
+# (ii) Splitting the dataset into training and testing data.
+    a. Here the dataset is split into training and testing data i.e training data has 80 % data and testing has 20 % data.
+
+# (iii) Model Building
+    a.  Here we are using a Convolutional Neural Network (CNN) to build the neural network. In this process, Batch Normalization is used where the input network is converted into layers for each and every epoch. It helps in stabilizing the learning process and reduces the number of epochs for every learning process.
+
+The hyperparameters used in this project is of below:
+
+# .   Input: 128*128*3
+
+# .   Num epochs: 30
+
+# .   Batch size: 40
+
+# .   verbose : 1
+
