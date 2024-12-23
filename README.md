@@ -41,3 +41,12 @@ The brain tumor dataset has two sets of folder 'No' and 'Yes'.
 
  .   verbose : 1
 
+
+# Project Results
+
+The model used on MRI images test set provides the following result:
+
+Accuracy for Non Tumor Dataset :    (100% Accuracy)
+
+Accuracy for Tumor     Dataset :    (61.17897629737854% Accuracy)
+
