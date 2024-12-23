@@ -33,11 +33,11 @@ The brain tumor dataset has two sets of folder 'No' and 'Yes'.
 
 The hyperparameters used in this project is of below:
 
-# .   Input: 128*128*3
+ .   Input: 128 * 128 * 3
 
-# .   Num epochs: 30
+ .   Num epochs: 30
 
-# .   Batch size: 40
+ .   Batch size: 40
 
-# .   verbose : 1
+ .   verbose : 1
 
