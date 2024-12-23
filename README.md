@@ -6,3 +6,12 @@
 
 
  In this project, we are using the deep learning model named CNN(Convolutional Neural Networks) for detecting whether the brain images provided to us has tumor in it or not.
+
+## Dataset
+
+The brain tumor dataset has two sets of folder 'No' and 'Yes'.
+
+(i) No folder = It contains the list of all the brain images that are not detected with brain tumor. There are total 98 images that are not detected with brain tumor.
+
+(ii) Yes folder = It contains the list of all the brain images that are detected with brain tumor.   There are total 155 images that are detected with brain tumor.
+
