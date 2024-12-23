@@ -31,7 +31,7 @@ The brain tumor dataset has two sets of folder 'No' and 'Yes'.
 # (iii) Model Building
     a.  Here we are using a Convolutional Neural Network (CNN) to build the neural network. In this process, Batch Normalization is used where the input network is converted into layers for each and every epoch. It helps in stabilizing the learning process and reduces the number of epochs for every learning process.
 
-The hyperparameters used in this project is of below:
+# The hyperparameters used in this project is of below:
 
  .   Input: 128 * 128 * 3
 
